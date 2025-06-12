@@ -19,7 +19,7 @@ Beijing University of Aeronautics and Astronautics (BUAA) | 北京航空航天�
 ### 🎓 Master's Degree | 硕士研究生  
 **2019.09 - 2022.06**  
 Beijing University of Aeronautics and Astronautics (BUAA) | 北京航空航天大学  
-- **Major | 专业**: Instrumentation Engineering | 仪器仪表工程  
+- **Major | 专业**: Instrument and Meter Engineering | 仪器仪表工程  
 - **Ranking | 排名**: 16/105  
 
 ### 🎓 Bachelor's Degree | 学士学位  
