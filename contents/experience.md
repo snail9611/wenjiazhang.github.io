@@ -23,13 +23,13 @@ Worked on the development and optimization of large-scale recommendation systems
 # 项目经历 | Project Experience
 
 ## 🚀 博士课题 | PhD Research (2022.07 - Present)
-**基于X射线脉冲星的深空探测器高精度导航方法研究**
+**基于X射线脉冲星的深空探测器高精度导航方法研究** 
 *科技部重大专项 | National Key R&D Program of China - 学生负责人 | Student Leader*
 
 - **背景 | Background**:
   参与科技部重大专项，作为学生负责人承担X射线脉冲星导航子课题
 
-- **任务 | Tasks**:  
+- **任务 | Task**:  
   实现深空探测器高精度自主导航
 
 - **行动 | Action**:  
@@ -51,7 +51,7 @@ Worked on the development and optimization of large-scale recommendation systems
 - **背景 | Background**:
   与某航天院所合作开展临近空间的预研项目
 
-- **任务 | Tasks**:
+- **任务 | Task**:
   为高动态临近空间飞行器确定高精度且完全自主的导航方法
 
 - **行动 | Action**:
@@ -68,11 +68,11 @@ Worked on the development and optimization of large-scale recommendation systems
 ## 🛰️ 纵向项目 | Vertical Project (2019.11 - 2020.03)  
 **惯性/天文/卫星组合导航算法研究**  
 *国家自然科学基金项目 | NSFC Project - 主要成员 | Core Member*  
-
+wao
 - **背景 | Background**:
   参与国家自然科学基金项目，开展惯性/天文/卫星组合导航算法研究
 
-- **任务 | Tasks**:
+- **任务 | Task**:
   负责相关导航算法和信息融合技术算法研究，以及特定组合导航算法程序编写
 
 - **行动 | Action**:
@@ -84,6 +84,27 @@ Worked on the development and optimization of large-scale recommendation systems
 - **成果 | Key Achievements**:
   所编写程序的核心算法为INS/CNS/GNSS组合导航研究提供了有力支持，推动项目进展（指标提升）
 
+---
+
+## 🚀 硕士课题 | Master Research (2022.07 - Present)
+**脑磁信号伪影识别算法研究** 
+*北京量子信息科学研究院合作项目 | Collaborative projects - 学生负责人 | Student Leader*
+
+- **背景 | Background**:
+  参与科技部重大专项，作为学生负责人承担X射线脉冲星导航子课题
+
+- **任务 | Task**:  
+  实现深空探测器高精度自主导航
+
+- **行动 | Action**:  
+  围绕导航系统的实时性、高精度和鲁棒性
+  1. 基于双折叠轮廓的相位之差，迭代求解脉冲星的脉冲周期，计算速度提高99.96%，估计精度提高98.54%
+  2. 基于状态先验信息和非凸优化算法，估计脉冲相位，计算速度提高99.98%，估计精度提高98.07%
+  3. 建立基于脉冲双星的导航量测模型，分析并抑制系统误差，使用改进卡尔曼滤波算法估计航天器状态
+  4. 分析导航状态模型误差及其特性，建立时变过程噪声与序贯状态差分之间的映射关系，使用改进自适应卡尔曼滤波算法估计过程噪声和航天器状态，抑制系统发散
+
+- **成果 | Key Achievements**:
+  信号处理的实时性与导航系统的精度和鲁棒性均有效提高，导航定位精度最终提高96.07%
 
 # 实习经历 | Internship Experience
 

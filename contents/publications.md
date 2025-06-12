@@ -1,4 +1,4 @@
-# 科研成果 | Research Achievements
+<!-- # 科研成果 | Research Achievements -->
 
 ## 📚 学术论文 | Publications
 **总计：5篇已发表SCI，4篇在审SCI**  
@@ -34,23 +34,25 @@
 1. **Second-differenced Pulsar Measurement for Binary Pulsar Navigation**  
    - 第一作者 | First-author  
    - IEEE Transactions on Aerospace and Electronic Systems (SCI Q1, IF=5.1)  
-   - 🔍 二审大修 | Major revision
+   - 🔍 二审大修 | Major Revision
    - 📌 顶刊 | Top Journal
 
 2. **Fast Period Estimation for XPNAV Using Phase Difference of Folded Profiles**  
    - 共同一作 | Co-first-author  
    - Acta Astronautica (SCI Q1, IF=3.1)  
-   - 🔍 二审中 | Under review
+   - 🔍 二审中 | Under Review
 
 3. **Binary Pulsar Navigation with Sequential Measurement Difference for Bias Suppression**  
    - 第一作者 | First-author  
    - Measurement (SCI Q1, IF=4.2)  
-   - ⏳ 审稿中 | Under review
+   - ⏳ 审稿中 | Under Review
+   - 📌 顶刊 | Top Journal
 
 4. **Fast Phase/Doppler Estimation for XNAV Using Prior Information and Non-Convex Optimization**  
    - 第一作者 | First-author  
    - Chinese Journal of Aeronautics (SCI Q1, IF=5.3)  
-   - ⏳ 审稿中 | Under review  
+   - ⏳ 审稿中 | Under Review
+   - 📌 顶刊 | Top Journal
 
 ---
 
