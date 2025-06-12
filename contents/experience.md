@@ -22,7 +22,7 @@ Worked on the development and optimization of large-scale recommendation systems
 
 # 项目经历 | Project Experience
 
-# 🚀 博士课题 | PhD Research (2022.07 - Present)
+## 🚀 博士课题 | PhD Research (2022.07 - Present)
 **基于X射线脉冲星的深空探测器高精度导航方法研究**
 *科技部重大专项 | National Key R&D Program of China - 学生负责人 | Student Leader*
 
