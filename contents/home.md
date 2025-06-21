@@ -12,7 +12,7 @@
 ## 教育背景 | Education
 
 ### 🎓 博士研究生 | PhD Candidate
-**2022.09 - Present(努力提前毕业中...)**  
+**2022.09 - 2026.01（预计毕业时间 3.5年/4.0年）**  
 北京航空航天大学 | Beijing University of Aeronautics and Astronautics (BUAA)
 - **专业 | Major**: 电子信息类 | Electronic Information
 - **排名 | Ranking**: 年级第二| **2/170**
